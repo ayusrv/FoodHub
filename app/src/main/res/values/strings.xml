@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FoodHub</string>
+    <string name="mobile_number">Mobile Number(10 Digit)</string>
+    <string name="password">Enter your Password</string>
+    <string name="loggin">Loggin</string>
+    <string name="login">Login</string>
+    <string name="register_yourself">Don\'t have an account?Sign up now</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="thor_odinson">Thor Odinson</string>
+    <string name="_11987656788">+11987656788</string>
+    <string name="capamerica_gmail_com">capamerica@gmail.com</string>
+    <string name="steve_rogers">Steve Rogers</string>
+    <string name="_11987656789">+11987656789</string>
+    <string name="next">Next</string>
+    <string name="forgot_pass_text">Enter your Registered mobile number and email address</string>
+    <string name="name">Enter your name</string>
+    <string name="email_address">Email Address</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="choose_password">Choose a password(min 4 characters)</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register Yourself</string>
+</resources>
